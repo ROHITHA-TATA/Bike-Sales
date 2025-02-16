@@ -4,7 +4,7 @@ PROJECT OVERVIEW -
 
 This project focuses on **data cleaning, transformation, and dashboard creation** using a **bike buyers dataset**. It leverages **Pivot Tables, slicers, and charts** to analyze **customer trends, purchasing patterns, and key insights** based on factors like **income, age, and occupation**.  
 
-FeEATURES -
+FEATURES -
 
 Data Cleaning & Preprocessing – Handling missing values, formatting, and structuring data.  
 Pivot Tables & Charts – Summarizing and visualizing key metrics.  
